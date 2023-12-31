@@ -4,7 +4,7 @@ import {
   locationIcon,
   githubIcon,
   linkedIn
-} from './icons/index.js';
+} from './public/icons/index.js';
 
 const inicio_icon_github = document.getElementById('inicio-icon-github');
 const inicio_icon_email = document.getElementById('inicio-icon-email');
