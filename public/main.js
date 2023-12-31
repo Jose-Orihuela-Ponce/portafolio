@@ -4,7 +4,7 @@ import {
   locationIcon,
   githubIcon,
   linkedIn
-} from './public/icons/index.js';
+} from './icons/index.js';
 
 const inicio_icon_github = document.getElementById('inicio-icon-github');
 const inicio_icon_email = document.getElementById('inicio-icon-email');
@@ -49,8 +49,7 @@ const PROJECTS = [
     github: '',
     image: './public/images/shop-electronics.webp',
     tags: [nextJSIcon, nextJSIcon]
-  }
-  ,
+  },
   {
     title: 'Rick-Mort',
     description: 'Rick-Mort',
