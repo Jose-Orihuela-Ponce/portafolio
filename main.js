@@ -31,7 +31,7 @@ const PROJECTS = [
     description: 'Rick-Mort',
     link: 'https://jose-orihuela-ponce.github.io/Rick-Morty/',
     github: '',
-    image: './public/images/rick_morty_image.webp',
+    image: './public/assets/rick_morty_image.webp',
     tags: [nextJSIcon, nextJSIcon]
   },
   {
@@ -39,7 +39,7 @@ const PROJECTS = [
     description: 'Rick-Mort',
     link: 'https://pocke-api-nextjs.vercel.app/',
     github: '',
-    image: './public/images/pocke_api.webp',
+    image: './public/assets/pocke_api.webp',
     tags: [nextJSIcon, nextJSIcon]
   },
   {
@@ -47,7 +47,7 @@ const PROJECTS = [
     description: 'Rick-Mort',
     link: 'https://jose-orihuela-ponce.github.io/Tienda-front-electronics/',
     github: '',
-    image: './public/images/shop-electronics.webp',
+    image: './public/assets/shop-electronics.webp',
     tags: [nextJSIcon, nextJSIcon]
   },
   {
@@ -55,7 +55,7 @@ const PROJECTS = [
     description: 'Rick-Mort',
     link: 'https://nextjs-libros-typescript.vercel.app/',
     github: '',
-    image: './public/images/libreria_midudev.webp',
+    image: './public/assets/libreria_midudev.webp',
     tags: [nextJSIcon, nextJSIcon]
   }
 ];
